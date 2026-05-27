@@ -1,0 +1,15 @@
+{
+  "name": "davidng.github.io",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bunx docsify-cli serve docs"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "type": "module"
+}
