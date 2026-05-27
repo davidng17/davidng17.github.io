@@ -1,6 +1,5 @@
-Software Engineering Overview
+Solution Architecture 
 ---
-... bla bla
 
 # What is my responsibility?
 - 
@@ -9,5 +8,4 @@ Software Engineering Overview
 - 
 
 # Projects
-
 

@@ -1,0 +1,48 @@
+DevSecOps roadmap
+- [ ] Git Branching model
+- [ ] Continuous Delivery Pipeline
+- [ ] DevOps lifecycle, feedback loop, collaboration
+- [ ] Provisioning and configuration management: Ansible, Terraform, Crossplane
+- [ ] GitOps: ArgoCD
+- [ ] Service Mesh: Istio, Linkerd, Consul
+- [ ] Agile, Scrum. Tools: Jira, Plane
+- [ ] Linux
+  - [ ] commands, tools
+  - [ ] Administration: user, file, process, logs, network, security
+  - [ ] Security: firewalls, encryption, access controls, vulnerability scanning
+- [ ] Monitoring:
+  - [ ] Infrastructure monitoring: metrics, alerts, dashboards
+  - [ ] Application monitoring: logs, tracing, performance
+  - [ ] Security monitoring: threat detection, compliance, incident response
+- [ ] Storage:
+  - [ ] File system in Linux: NFS, RAID, storage optimization
+  - [ ] Database: MySQL, PostgreSQL
+  - [ ] Cache: Redis, Valkey
+- [ ] Networking:
+  - [ ] Network architecture, protocols, virtualization
+  - [ ] Network security: firewalls, VPN, encryption, access controls
+  - [ ] Network troubleshooting: diagnostics, performance monitoring
+  - [ ] HTTP, SSL/TLS, mTLS, HTTP/2, gRPC, ...
+  - [ ] SSH: ssh authentication, configuration, key management, tunneling
+  - [ ] DNS: DNSSEC, DNS over TLS, DNS over HTTPS, DNS caching, DNS resolution, DNS spoofing prevention
+  - [ ] Load balancing: L4, L7, HAProxy, NGINX, AWS ELB, Google Cloud Load Balancing
+  - [ ] CDN: CloudFront, Akamai, Cloudflare, Fastly, ...
+  - [ ] Web Application Firewall (WAF): ModSecurity, AWS WAF, Google Cloud Armor, Akamai WAF
+  - [ ] API Gateway: AWS API Gateway, Google Cloud Endpoints, Azure API Management
+  - [ ] VPN: protocol, configuration, security, authentication, encryption, tunneling, VPNaaS, IPsec, OpenVPN, WireGuard
+  - [ ] Network performance optimization: QoS, congestion control, packet loss, latency, jitter
+  - [ ] Network monitoring: network traffic analysis, network flow analysis, network anomaly detection, network performance analysis
+- [ ] Containerization and Orchestration:
+  - [ ] Docker: images, containers, container networking, container orchestration, container security, container lifecycle management
+  - [ ] Docker security: image scanning, container isolation, runtime security, secrets management, network security, resource management
+  - [ ] Kubernetes: *
+  - [ ] Kubernetes security: *
+- [] Security:
+  - [ ] Web Application Security:
+    - [ ] Secure web application development: secure coding practices, secure development lifecycle, secure software development, secure coding standards, secure software development lifecycle
+    - [ ] Penetration testing: vulnerability scanning, vulnerability assessment, penetration testing, ethical hacking, red teaming
+    - [ ] Web application firewall (WAF): ModSecurity, AWS WAF, Google Cloud Armor, Akamai WAF. Cloudflare WAF
+    - [ ] API Security: authentication, authorization, rate-limiting, API key management.
+  - [ ] Security testing: SAST, DAST, IAST, SCA
+  - [ ] Cloud Security: AWS
+  - [ ] Security Compliance: PCI DSS, HIPAA, GDPR, ISO 27001, SOC 2, NIST 800-53, CIS-CAT, OpenSCAP, Nessus

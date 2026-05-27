@@ -1,7 +1,5 @@
-Software Engineering Overview
+DevSecOps Engineering
 ---
-... bla bla
-
 # What is my responsibility?
 - 
 
@@ -9,5 +7,4 @@ Software Engineering Overview
 - 
 
 # Projects
-
 

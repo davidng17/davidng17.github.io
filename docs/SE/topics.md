@@ -1,0 +1,26 @@
+Topics
+---
+My planning blogs and implementation ideas.
+- [ ] Authentication and Authorization
+- [ ] Access Control
+  - [baeldung](https://www.baeldung.com/cs/role-vs-permission-based-access-control)
+  - Resource-based
+  -  Role-based
+  -  Permission-based
+- [ ] Architecture
+- [ ] Security
+- [ ] Server
+- [ ] Database
+- [ ] Backup
+- [ ] Logging
+- [ ] Monitoring
+- [ ] Testing
+- [ ] Deployment
+- [ ] Documentation
+- [ ] CI/CD
+- [ ] Performance
+- [ ] Scalability
+- [ ] Notifications
+- [ ] Analytics
+- [ ] Batch Processing
+- [ ] Serverless
