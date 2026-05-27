@@ -1,19 +1,25 @@
-Topics
----
-My planning blogs and implementation ideas.
+# 🏗️ SA — Topics & Blog Ideas
 
-- [] Design principles: SOLID, DRY, KISS, YAGNI, Low of Demeter, etc.
+> Architecture patterns, design philosophy, and system thinking.
+
+---
+
+## 📐 Design Principles
+
+- [ ] SOLID, DRY, KISS, YAGNI, Law of Demeter
 - [ ] Scaling monolithic applications in production
-- [ ] Microservices
-- [ ] Fully serverless
-  - [ ] Cloud-agnostic serverless design philosophy (e.g. isolate resources in AWS Lambda vs shared resources in GCP Cloud Run)
-- [ ] Architecture styles
-  - [ ] POSA patterns (Patten-Oriented Software Architecture)
-  - [ ] Event-driven architecture
-  - [ ] Domain-driven architecture
-  - [ ] Data-driven architecture
-  - [ ] ...
-- [ ] Cloud Design Patterns
-  - Resources:
-    - [Azure](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
-    - [AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
+
+## 🧩 Architecture Styles
+
+- [ ] Microservices decomposition and trade-offs
+- [ ] Fully serverless — cloud-agnostic design philosophy
+  - [ ] Isolated resources (AWS Lambda) vs shared resources (GCP Cloud Run)
+- [ ] POSA patterns (Pattern-Oriented Software Architecture)
+- [ ] Event-driven architecture
+- [ ] Domain-driven architecture
+- [ ] Data-driven architecture
+
+## ☁️ Cloud Design Patterns
+
+- 📎 [Azure Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- 📎 [AWS Patterns](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
